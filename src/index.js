@@ -11,7 +11,7 @@ function Main() {
           <img src={image} height="200" width="200" className="image" />
         </div>
         <div className="my-intro">
-          <h1>Huzaifa</h1>
+          <h1>Huzaifa Habib</h1>
           <h3>Web Developer</h3>
         </div>
       </div>
